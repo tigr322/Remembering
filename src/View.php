@@ -13,7 +13,7 @@ class View
         }
         extract($data, EXTR_SKIP);
         ob_start();
-        $template = $template; // для layout
+        $template = $template;
         include __DIR__ . '/Views/_layout.php';
         return ob_get_clean();
     }
