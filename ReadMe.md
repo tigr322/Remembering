@@ -24,7 +24,7 @@ git clone https://github.com/tigr322/Remembering.git
 docker compose up --build
 ```
 
-Открой в браузере: [http://localhost:8000](http://localhost:8000)
+Открой в браузере: [http://localhost:8099]
 
 ---
 
